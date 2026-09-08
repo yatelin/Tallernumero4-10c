@@ -1,9 +1,0 @@
-{ 
-    "datos": {
-
-    "NOMBRE": "Samuel",
-    "APELLIDO" : "Yate",
-    "EDAD" : "15",
-    "ESTUDIANTE" : true
-    }
-}    
